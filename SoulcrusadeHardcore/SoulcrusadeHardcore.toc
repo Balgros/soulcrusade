@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: Soulcrusade Hardcore (Guild Trade)
+## Notes: Hardcore-style restrictions with guild-only trading allowed.
+## Author: ChatGPT
+## Version: 1.0.0
+
+SoulcrusadeHardcore.lua
